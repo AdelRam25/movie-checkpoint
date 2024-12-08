@@ -5,7 +5,7 @@ export default ({ setMovies }) => {
     title: "",
     description: "",
    image: "",
-    rating: null,
+    rating: "",
   });
 
 
